@@ -99,3 +99,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+unicorn_hat_sim.py
