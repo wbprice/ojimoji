@@ -2,5 +2,12 @@ import game
 import martini
 import beer
 import hamburger
+import coffee
 
-list = [game, martini, beer, hamburger]
+list = [
+    coffee,
+    game,
+    martini,
+    beer,
+    hamburger
+]
