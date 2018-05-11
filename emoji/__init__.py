@@ -1,4 +1,5 @@
 import game
 import martini
+import beer
 
-list = [game, martini]
+list = [game, martini, beer]
