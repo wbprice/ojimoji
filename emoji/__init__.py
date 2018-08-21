@@ -1,8 +1,8 @@
-import game
-import martini
-import beer
-import hamburger
-import coffee
+from . import game
+from . import martini
+from . import beer
+from . import hamburger
+from . import coffee
 
 list = [
     coffee,
