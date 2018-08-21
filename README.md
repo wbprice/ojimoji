@@ -10,8 +10,10 @@ A celebration of O.G. emoji
 
 ## Running Locally
 
-1. Install repository
-2. [Install Unicorn Hat Sim](https://github.com/jayniz/unicorn-hat-sim#usage)
-2. `pipenv install`
-3. `pipenv shell`
-4. `python main.py`
+```bash
+git clone git@github.com:wbprice/ojimoji.git && cd ojimoji
+wget https://raw.githubusercontent.com/jayniz/unicorn-hat-sim/master/unicorn_hat_sim.py
+pipenv install
+pipenv shell
+python main.py
+```
