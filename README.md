@@ -2,7 +2,8 @@
 A celebration of O.G. emoji
 
 <img width="1616" height="661" alt="image" src="https://github.com/user-attachments/assets/8b8d5c3f-0a7d-4274-ae96-f70dc2c0bb59" />
-(MOMA)[https://www.moma.org/collection/works/196070]
+
+[MOMA](https://www.moma.org/collection/works/196070)
 
 # Setup
 
@@ -20,3 +21,4 @@ pipenv install
 pipenv shell
 python main.py
 ```
+https://github.com/wbprice/ojimoji.gitz
