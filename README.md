@@ -21,4 +21,3 @@ pipenv install
 pipenv shell
 python main.py
 ```
-https://github.com/wbprice/ojimoji.gitz
